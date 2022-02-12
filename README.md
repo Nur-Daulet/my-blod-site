@@ -1,2 +1,2 @@
-# my-blod-site
+# my-blog-site
 my first site
